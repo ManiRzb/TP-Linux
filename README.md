@@ -25,6 +25,7 @@ Here’s a quick overview of the current content in this repository:
 
 ### **Storage Management**
 - [Add and Set Up a New Disk](storage_management/add_and_setup_new_disk.md): A complete guide to adding, partitioning, formatting, and permanently mounting a new disk on Linux.
+- [Extend Root Storage with a New Disk](storage_management/extend_root_storage_with_new_disk.md): A detailed guide to expanding your root directory (`/`) by adding and integrating a new disk into your LVM setup.
 
 
 
